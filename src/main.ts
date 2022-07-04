@@ -1,8 +1,4 @@
 
-
-// solution goes here
-// solution goes here
-
 type CommentData = {
     id: number
     content: string
